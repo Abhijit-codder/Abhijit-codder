@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
-<h3 align="center">Keeping Learning! Keep Growing!</h3>
+<h3 align="center">Keep Learning! Keep Growing!</h3>
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
