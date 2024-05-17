@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijit-g-500812249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijit-g-500812249/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijit-g-500812249/"><img align="center" src="https://cdn-icons-png.freepik.com/256/3536/3536505.png?uid=R108519646&ga=GA1.1.151979339.1715970019&semt=ais_hybrid" alt="https://www.linkedin.com/in/abhijit-g-500812249/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhijit_goenka_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhijit_goenka_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/abhijit-codder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhijit-codder/" height="30" width="40" /></a>
 </p>
