@@ -1,5 +1,10 @@
-### Hi there 👋
-<h1>hello contributors</h1>
+<h2 style="text-align:centre;">Hello Contributor!<h2>
+<h1 style="text-align:centre;">Abhijit here.<h1>
+
+<img src=" https://cdn-icons-png.freepik.com/256/919/919854.png?uid=R108519646&ga=GA1.1.151979339.1715970019&semt=ais_hybrid">
+  
+
+  
 
 <!--
 **Abhijit-codder/Abhijit-codder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
