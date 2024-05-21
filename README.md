@@ -33,4 +33,4 @@
 </p>
 <br>
 <br>
-<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-codder&" alt="abhijit-codder" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-codder&" alt="abhijit-codder" /></p>
